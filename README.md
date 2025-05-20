@@ -7,6 +7,7 @@ Este projeto tem como objetivo analisar dados de um marketplace para entender pa
 ---
 
 📈 Principais Análises Realizadas
+
 A) Volume de Pedidos por Mês
 Tendência clara de crescimento nas vendas ao longo do tempo.
 
